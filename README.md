@@ -1,5 +1,6 @@
 ﻿# JS_movie_zone
-## Used Vanila JS, Tailwind CSS and HTML
-### live link : https://js-movie-zone-two.vercel.app/
+## I have Used Vanila JS, Tailwind CSS and HTML to complete this project
+### Live Link : https://js-movie-zone-two.vercel.app/
+
 
 
